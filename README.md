@@ -14,17 +14,11 @@ Welcome to my GitHub! I’m a passionate Software Engineer with over 4 years of 
 - Real-Time Chat System: Built using Firebase Realtime Database, enabling seamless communication between users.
 - Full-Text Search Engine Integration: Enhanced content management and matching capabilities for a large-scale platform.
 
-🌐 Cloud Infrastructure: 
+🌐 Cloud Infrastructure: Experienced in designing and implementing cloud infrastructure on AWS, ensuring high availability and low latency with CloudFront and load balancing strategies.
 
-Experienced in designing and implementing cloud infrastructure on AWS, ensuring high availability and low latency with CloudFront and load balancing strategies.
+📍 Current Location: Tokyo, Japan
 
-📍 Current Location: 
-
-Tokyo, Japan
-
-🌏 Looking for Opportunities: 
-
-Exploring roles in global tech environments, particularly in Singapore or the US, where I can contribute to innovative projects and work in a multicultural setting.
+🌏 Looking for Opportunities: Exploring roles in global tech environments, particularly in Singapore or the US, where I can contribute to innovative projects and work in a multicultural setting.
 
 🛠️ Technical Skills
 
