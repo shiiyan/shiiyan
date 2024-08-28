@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m a passionate Software Engineer with over 4 years of 
 
 🛠️ Technical Skills
 
-- Languages: Kotlin, PHP, JavaScript (Vue.js)
+- Languages: Kotlin, PHP, JavaScript (Vue.js, React)
 - Frameworks: Spring Boot, CakePHP
 - Databases: MySQL, Redis, Firebase (NoSQL)
 - Cloud: AWS (ECS, Docker, CloudFront, RDS, Aurora)
